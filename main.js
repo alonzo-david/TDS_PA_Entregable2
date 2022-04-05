@@ -13,4 +13,5 @@ function createWindow() {
     ventana.loadFile('autenticar.html')
 }
 
+
 app.whenReady().then(createWindow)
